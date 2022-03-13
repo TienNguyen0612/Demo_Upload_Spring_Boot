@@ -1,0 +1,18 @@
+#productList, #categoryList {
+    text-align: center;
+    vertical-align: center;
+}
+
+.btn-primary {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
